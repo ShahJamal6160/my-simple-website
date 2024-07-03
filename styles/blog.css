@@ -1,6 +1,13 @@
 div{
     background-color:brown ;
     margin: 10px;
-    padding: 20px;
-    text-shadow: rgb(226, 211, 209);
+    padding: 10px;
+   text-decoration: underline;
+   text-decoration-color: blue;
+   
+}
+
+img{
+    margin: 20px;
+    padding: 30px;
 }
