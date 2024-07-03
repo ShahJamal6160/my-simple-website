@@ -4,10 +4,17 @@ div{
     padding: 10px;
    text-decoration: underline;
    text-decoration-color: blue;
+   box-shadow: yellow;
+   font-size: large;
+   font-style: italic;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 700;
+   font-display: 10px;
    
 }
 
 img{
     margin: 20px;
     padding: 30px;
+
 }
